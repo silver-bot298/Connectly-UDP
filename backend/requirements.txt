@@ -1,0 +1,6 @@
+# Datagram Python Backend Dependencies
+# Core UDP Server, SQLite Database, Auth, and WebSocket/HTTP Bridge use Python 3.10+ Standard Library
+# (socket, sqlite3, asyncio, hashlib, hmac, json, base64, struct) for zero-friction Windows & Linux execution.
+#
+# Optional: websockets is listed if you wish to inspect or extend with external asyncio tooling.
+websockets>=12.0

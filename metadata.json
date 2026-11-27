@@ -1,0 +1,6 @@
+{
+  "name": "DATAGRAM — Real-Time UDP Chat Application",
+  "description": "A standalone multi-user messaging application built on connectionless UDP (SOCK_DGRAM) datagrams with live socket diagnostics, application-layer ACKs, and packet loss simulation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
